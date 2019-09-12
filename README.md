@@ -1,6 +1,6 @@
 # Quality evaluation-based iterative seam estimation for image stitching
 
-1. Unzip "vlfeat-0.9.20" in the main path, add images in the folder "Imgs" in the main path and run the "main.m".
+1. Add images in the folder "Imgs" in the main path and run the "main.m".
 
 2. This software has been tested on 64bit Windows; for other platforms, you'll
 need to compile your own mex files for "graphCutMex".
