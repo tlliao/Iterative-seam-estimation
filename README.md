@@ -1,18 +1,28 @@
 # Quality evaluation-based iterative seam estimation for image stitching
 
-1. Unzip "vlfeat-0.9.20" in the main path, add images in the folder "Imgs" in the main path and run the "main.m".
+This repository is our implementation of the paper, Quality evaluation-based iterative seam estimation for image stitching
+. If you use any code or data from our work, please cite our paper.
 
-2. This software has been tested on 64bit Windows; for other platforms, you'll
-need to compile your own mex files for "graphCutMex".
+### Usage
 
-3. Please cite the following if you use this software in any publications:       
-[1.] T. Liao, J. Chen and Y. Xu, "Quality evaluation-based iterative seam estimation for image stitching," Signal, Image and Video Processing (SIViP), 13(6), 1199-1206 (2019).
+1. Download code, add images in the folder "Imgs" in the main path and run the "main.m".
 
+2. This code has been tested on 64bit Windows; for other platforms, you'll need to compile your own mex files for "graphCutMex".
 
-4. If you have any comments, suggestions, or questions, please contact Tianli Liao (tianli.liao@haut.edu.cn).
+### Citation
+```
+@article{liao2019quality,
+  title={Quality evaluation-based iterative seam estimation for image stitching},
+  author={Liao, Tianli and Chen, Jing and Xu, Yifang},
+  journal={Signal, Image and Video Processing},
+  volume={13},
+  number={6},
+  pages={1199--1206},
+  year={2019},
+  publisher={Springer}
+}
+```
 
+### Contact
 
-
-
-
-
+If you have any comments, suggestions, or questions, please contact me (tianli.liao@haut.edu.cn).
