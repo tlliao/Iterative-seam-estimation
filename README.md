@@ -1,7 +1,6 @@
 # Quality evaluation-based iterative seam estimation for image stitching
 
-This repository is our implementation of the paper, Quality evaluation-based iterative seam estimation for image stitching
-. If you use any code or data from our work, please cite our paper.
+This repository is our implementation of the paper, Quality evaluation-based iterative seam estimation for image stitching. If you use any code or data from our work, please cite our paper.
 
 ### Usage
 
